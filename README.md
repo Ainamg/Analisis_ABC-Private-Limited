@@ -51,5 +51,5 @@ El archivo de datos original consta de varias columnas:
 Las contribuciones son bienvenidas. Si deseas mejorar el proyecto, no dudes en ponerte en contacto conmigo o enviar tus ideas.
 
 ## Autores
-- Aïna [GitHub Profile] (https://github.com/Ainamg)
+- Aïna [GitHub Profile](https://github.com/Ainamg)
 
