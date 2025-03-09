@@ -46,3 +46,10 @@ El archivo de datos original consta de varias columnas:
 - El producto 1 es el más comprado.
 - Hay diferencias significativas en el gasto según ocupación.
 - La mayoría de las compras provienen de la ciudad B.
+
+## Contribuciones
+Las contribuciones son bienvenidas. Si deseas mejorar el proyecto, no dudes en ponerte en contacto conmigo o enviar tus ideas.
+
+## Autores
+- Aïna [GitHub Profile] (https://github.com/Ainamg)
+
